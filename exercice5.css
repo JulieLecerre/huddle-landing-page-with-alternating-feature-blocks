@@ -1,0 +1,136 @@
+.grandrectangle {
+	background-image: url("bg-hero-desktop.svg");
+	height: 400px;
+	width:400px;
+}
+
+.petitrectangle {
+	background-color: white;
+	height: 
+	width:
+}
+
+.logocouleur {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+}
+
+.titrebloc1 {
+	font-size: 50px;
+	font-family: poppins;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	top: 175px;
+	left: 40px;
+}
+
+.textebloc1 {
+	font-size: 20px;
+	font-family: poppins;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	top: 370px;
+	left: 40px;
+}
+
+.boutonrose {
+	background-color: hsl(322, 100%, 66%);
+	position: absolute;
+	left: 40px;
+	top: 485px;
+	height: 38px;
+	width: 170px;
+	border-radius: 20px;
+}
+
+.boutonblanc {
+	background-color: grey;
+	position: absolute;
+	left: 1180px;
+	top: 30px;
+	height: 38px;
+	width: 170px;
+	border-radius: 20px;
+}
+
+.texteboutonrose {
+	font-size: 10px;
+	font-family: open sans;
+	color: white;
+	font-weight: bold;
+	position: relative;
+	top: 8px;
+	left: 40px;	
+}
+
+.texteboutonblanc {
+	font-size: 10px;
+	font-family: open sans;
+	color: white;
+	font-weight: bold;
+	position: relative;
+	top: 8px;
+	left: 65px;
+}
+
+.ecrans {
+	height: 460px;
+	width:630px;
+	position: absolute;
+	left: 740px;
+	top: 110px;
+}
+
+.titre {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.texte {
+	font-weight: bold;
+	font-size: 20px;
+	color: grey;
+}
+
+.titre1 {
+	position: relative;
+	top:300px;
+	left: 80px;
+}
+
+.texte1 {
+	position: relative;
+	top: 350px;
+	left: 80px;
+}
+
+.imageduo {
+	height: 300px;
+	width:300px;
+	position: absolute;
+	top: 580px;
+	left:900px;
+}
+
+.titre2 {
+	position: relative;
+	top: 530px;
+	left: 800px;
+}
+
+.texte2 {
+	position: relative;
+	top: 600px;
+	left: 270px;
+}
+
+.imagearbre {
+	height: 300px;
+	width:300px;
+	position: absolute;
+	top: 920px;
+	left:150px;
+}
