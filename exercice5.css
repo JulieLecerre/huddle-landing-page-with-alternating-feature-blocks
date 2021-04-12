@@ -1,13 +1,7 @@
-.grandrectangle {
+.background {
 	background-image: url("bg-hero-desktop.svg");
 	height: 400px;
 	width:400px;
-}
-
-.petitrectangle {
-	background-color: white;
-	height: 
-	width:
 }
 
 .logocouleur {
@@ -38,14 +32,22 @@
 
 .boutonrose {
 	background-color: hsl(322, 100%, 66%);
-	position: absolute;
-	left: 40px;
-	top: 485px;
 	height: 38px;
 	width: 170px;
 	border-radius: 20px;
 }
 
+.boutonrose1 {
+	position: absolute;
+	left: 40px;
+	top: 485px;
+}
+
+.boutonrose2 {
+	position: absolute;
+	left: 600px;
+	top: 1800px;
+}
 .boutonblanc {
 	background-color: grey;
 	position: absolute;
@@ -84,12 +86,12 @@
 	top: 110px;
 }
 
-.titre {
+.titrebloc234 {
 	font-weight: bold;
 	font-size: 30px;
 }
 
-.texte {
+.textebloc234 {
 	font-weight: bold;
 	font-size: 20px;
 	color: grey;
@@ -100,13 +102,13 @@
 	width:300px;
 }
 
-.titre1 {
+.titrebloc2 {
 	position: relative;
 	top:250px;
 	left: 80px;
 }
 
-.texte1 {
+.textebloc2 {
 	position: relative;
 	top: 260px;
 	left: 80px;
@@ -119,13 +121,13 @@
 	left:900px;
 }
 
-.titre2 {
+.titrebloc3 {
 	position: relative;
 	top: 470px;
 	left: 800px;
 }
 
-.texte2 {
+.textebloc3 {
 	position: relative;
 	top: 490px;
 	left: 800px;
@@ -137,20 +139,33 @@
 	left:150px;
 }
 
-.titre4 {
+.titrebloc4 {
 	position: relative;
 	top: 670px;
 	left: 80px;
 }
 
-.texte4 {
+.textebloc4 {
 	position: relative;
 	top: 690px;
 	left: 80px;
+}
+
+.titrebloc5 {
+	position: relative;
+	top:895px;
+	left:570px; 
+	font-style: bold;
 }
 
 .imagetrio {
 	position: absolute;
 	top: 1310px;
 	left:900px;
+}
+
+.logonb {
+	position: absolute;
+	top: 1950px;
+	left: 40px;
 }
