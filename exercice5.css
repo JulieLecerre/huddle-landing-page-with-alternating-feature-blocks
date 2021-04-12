@@ -95,22 +95,25 @@
 	color: grey;
 }
 
+.image{
+	height: 300px;
+	width:300px;
+}
+
 .titre1 {
 	position: relative;
-	top:300px;
+	top:250px;
 	left: 80px;
 }
 
 .texte1 {
 	position: relative;
-	top: 350px;
+	top: 260px;
 	left: 80px;
 	text-align: justify-all;
 }
 
 .imageduo {
-	height: 300px;
-	width:300px;
 	position: absolute;
 	top: 580px;
 	left:900px;
@@ -118,20 +121,36 @@
 
 .titre2 {
 	position: relative;
-	top: 530px;
+	top: 470px;
 	left: 800px;
 }
 
 .texte2 {
 	position: relative;
-	top: 600px;
-	left: 270px;
+	top: 490px;
+	left: 800px;
 }
 
 .imagearbre {
-	height: 300px;
-	width:300px;
 	position: absolute;
 	top: 920px;
 	left:150px;
+}
+
+.titre4 {
+	position: relative;
+	top: 670px;
+	left: 80px;
+}
+
+.texte4 {
+	position: relative;
+	top: 690px;
+	left: 80px;
+}
+
+.imagetrio {
+	position: absolute;
+	top: 1310px;
+	left:900px;
 }
