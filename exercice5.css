@@ -43,11 +43,6 @@
 	top: 485px;
 }
 
-.boutonrose2 {
-	position: absolute;
-	left: 600px;
-	top: 1800px;
-}
 .boutonblanc {
 	background-color: grey;
 	position: absolute;
@@ -164,8 +159,116 @@
 	left:900px;
 }
 
+.footer {
+	background:#00252e;
+	position:absolute;
+	width:100%;
+	top:1820px;
+	height:520px;
+}
+.icon {
+	width: 20px;
+	height:20px;
+}
+
+.textebloc6 {
+	font-size: 10px;
+	color:#eeffff;
+}
+
 .logonb {
 	position: absolute;
-	top: 1950px;
-	left: 40px;
+	top:1920px;
+	left:60px;
+}
+
+.textephone {
+	position: relative;
+	top: 1070px;
+	left: 100px;
+}
+
+.textelocalisation {
+	position: relative;
+	top: 1065px;
+	left: 100px;
+}
+
+.textemail {
+	position: relative;
+	top: 1105px;
+	left: 25px;
+}
+
+.iconlocalisation {
+	position: absolute;
+	top: 1988px;
+	left: 67px;
+}
+
+.iconphone {
+	position: absolute;
+	top: 2030px;
+	left: 67px;
+}
+
+.iconmail {
+	position: absolute;
+	top: 2065px;
+	left: 67px;
+}
+
+.texteaboutus {
+	position: relative;
+	top:1019px;
+	left:200px;
+}
+
+.textewhatwedo {
+	position: relative;
+	top:1045px;
+	left:156px;
+}
+
+.textefaq {
+	position: relative;
+	top:1070px;
+	left:102px;
+}
+
+.textecareer {
+	position: relative;
+	top:1019px;
+	left:200px;
+}
+
+.texteblog {
+	position: relative;
+	top:1045px;
+	left:171px;
+}
+
+.textecontactus {
+	position: relative;
+	top:1070px;
+	left:147px;
+}
+
+.iconfb {
+	position: absolute;
+	top:1975px;
+	left:705px;
+	border-radius: 50%;
+}
+
+.icontwitter {
+	position: absolute;
+	top:1975px;
+	left:755px;
+}	
+
+.iconinsta {
+	position: absolute;
+	top:1975px;
+	left:800px;
 }
