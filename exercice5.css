@@ -43,6 +43,12 @@
 	top: 485px;
 }
 
+.boutonrose2 {
+	position: absolute;
+	top: 1785px;
+	left: 590px;
+}
+
 .boutonblanc {
 	background-color: grey;
 	position: absolute;
@@ -178,25 +184,25 @@
 
 .logonb {
 	position: absolute;
-	top:1920px;
+	top:1915px;
 	left:60px;
 }
 
 .textephone {
 	position: relative;
-	top: 1070px;
+	top: 1110px;
 	left: 100px;
 }
 
 .textelocalisation {
 	position: relative;
-	top: 1065px;
+	top: 1100px;
 	left: 100px;
 }
 
 .textemail {
 	position: relative;
-	top: 1105px;
+	top: 1144px;
 	left: 25px;
 }
 
@@ -220,37 +226,37 @@
 
 .texteaboutus {
 	position: relative;
-	top:1019px;
+	top:1079px;
 	left:200px;
 }
 
 .textewhatwedo {
 	position: relative;
-	top:1045px;
+	top:1055px;
 	left:156px;
 }
 
 .textefaq {
 	position: relative;
-	top:1070px;
+	top:1105px;
 	left:102px;
 }
 
 .textecareer {
 	position: relative;
-	top:1019px;
+	top:1055px;
 	left:200px;
 }
 
 .texteblog {
 	position: relative;
-	top:1045px;
+	top:1079px;
 	left:171px;
 }
 
 .textecontactus {
 	position: relative;
-	top:1070px;
+	top:1105px;
 	left:147px;
 }
 
@@ -271,4 +277,16 @@
 	position: absolute;
 	top:1975px;
 	left:800px;
+}
+
+.rectangleblanc {
+	position: absolute;
+	top: 1697px;
+	left: 480px;
+	background:white;
+	width:400px;
+	height:150px;
+	border-style: solid;
+	border-color:#e8e7e7;
+	border-width: 0.5mm;
 }
